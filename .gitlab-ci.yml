@@ -1,0 +1,9 @@
+stages:
+  - quick
+  - build
+  - test
+  - deploy
+
+include:
+  - local: ".gitlab/ci/variables.yml"
+  - local: ".gitlab/ci/encodings.yml"
