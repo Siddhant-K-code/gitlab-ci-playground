@@ -1,2 +1,3 @@
 # gitlab-ci-playground
-GitLab CI Playground
+
+GitLab CI Playground for tests, debugging
